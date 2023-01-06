@@ -1,0 +1,24 @@
+.footer-items{
+    display: flex;
+    border:1px solid;
+width:1092px;
+height: 150px;
+background-color: aqua;
+margin:30px 180px;
+align-items: center;
+
+
+
+
+}
+b{
+    margin: 10px 100px;
+    color: blue;
+
+}
+i{
+margin:30px 150px;
+
+
+}
+

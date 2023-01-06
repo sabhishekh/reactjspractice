@@ -1,0 +1,18 @@
+.cantainer-items{
+    list-style: none;
+  cursor:pointer;
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+  font-weight: bold;
+  font-size: 30px;
+  color: brown;
+  border:1px solid;
+  background-color: black;
+  border-radius: 30px;
+
+  
+}
+.cantainer-items:hover{
+  color:blue;
+}

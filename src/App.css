@@ -1,0 +1,126 @@
+body{
+  background-image: url('Hacking.jpg');
+}
+  .img-cantainer{
+  border: 1px solid red;
+  border-radius: 30px;
+flex-basis: 50%;
+    animation:animate 3s linear infinite;
+}
+@keyframes animate{
+    0%{
+        transform: scale(1.1);
+
+    }
+    50%{
+        transform: scale(1);
+
+    }
+    100%{
+        transform: scale(1.1);
+
+    }
+}
+  
+  
+.cantainer{
+  display: flex;
+  margin: 10px 100px;
+}
+.heading{
+  font-size: 30px;
+  color: brown;
+  margin:10px 300px;
+  
+}
+.Headiing-project{
+  text-align: center;
+  font-weight: bold;
+  font-size: 40px;
+  color: fuchsia;
+}
+.box1{
+  border:1px solid red;
+  width:300px;
+  height:300px;
+  margin: 10px 30px;
+
+
+
+
+
+}
+.box2{
+  border:1px solid red;
+  width:300px;
+  height:300px;
+  margin: 10px 30px;
+
+}
+
+.box3{
+  border:1px solid red;
+  width:300px;
+  height:300px;
+  margin: 10px 30px;
+
+}
+
+.box4{
+  border:1px solid red;
+  width:300px;
+  height:300px;
+  margin: 10px 30px;
+}
+.box-cantainer{
+  display: flex;
+  margin: 10px 30px;
+  align-items: center;
+ 
+}
+span{
+  margin: 10px 30px;
+}
+.box1{
+  background-color: orangered;
+  
+}
+h3{
+  text-align:center;
+  color: blanchedalmond;
+  font-weight: bold;
+}
+.special-points{
+  text-align: center;
+  font-weight: bold;
+  
+}
+p{
+ color:whitesmoke;
+
+ 
+}
+button{
+  width:91px;
+  height:43px;
+  background-color: brown;
+  color:whitesmoke;
+border: blueviolet;
+
+}
+button:hover{
+  background-color: blue;
+}
+.box2{
+  background-color: black;
+  
+}
+.box3{
+  background-color: orangered;
+
+}
+.box4{
+  background-color: black;
+}
+
+  
